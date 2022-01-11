@@ -2,7 +2,7 @@
 
 ## auth.py
 * twitter developer account로부터 key, secret, access token 및 secret을 받아서 auth를 얻어옴
-* google spread로부터 dirve 사용을 인가받은 secret의 json 파일을 넘겨 auth를 얻어옴
+* google spread로부터 drive 사용을 인가받은 secret의 json 파일을 넘겨 auth를 얻어옴
 
 ## main.py
 * google spread로부터 필요한 데이터를 일괄 다운로드함
